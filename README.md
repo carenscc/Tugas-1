@@ -1,6 +1,6 @@
-**Resep Spaghetii Brulee**
+#**Resep Spaghetii Brulee**
 
-**Bahan pasta**:
+##**Bahan pasta**:
 - 75 gr spaghetti
 - 1/2 sdm minyak zaitun
 - 1/4 sdt garam
