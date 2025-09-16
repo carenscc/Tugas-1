@@ -36,6 +36,4 @@
 4. Untuk saus brulee: lelehkan margarin, masukkan tepung terigu, aduk cepat hingga tidak ada gumpalan.  
 5. Tuangkan susu UHT secara bertahap sambil diaduk sampai mengental. Tambahkan keju cheddar dan mozzarella, aduk hingga tekstur saus kental dan keju meleleh rata. Angkat dari kompor.  
 6. Panaskan oven (preheat) ke 200 °C. Campur spaghetti dengan saus bolognese, lalu tuangkan ke dalam loyang tahan panas atau wadah aluminium foil. Siram bagian atas dengan saus brulee hingga merata.  
-7. Panggang di oven selama ± 15 menit atau sampai permukaan atas berwarna keemasan dan matang sempurna. Keluarkan dan sajikan hangat.
-
----
+7. Panggang di oven selama ± 15 menit atau sampai permukaan atas berwarna keemasan dan matang sempurna. Keluarkan dan sajikan selagi hangat.
