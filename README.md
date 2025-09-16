@@ -39,7 +39,3 @@
 7. Panggang di oven selama ± 15 menit atau sampai permukaan atas berwarna keemasan dan matang sempurna. Keluarkan dan sajikan hangat.
 
 ---
-
-Jika kamu punya gambar, simpan ke folder `images/`. Contoh:
-```markdown
-![Spaghetti Brulee Panggang](images/spaghetti-brulee-panggang.jpg)
